@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Stuksus&style=plastic&label=profile+views&color=orange)
+![](https://komarev.com/ghpvc/?username=Kartashevshow&style=plastic&label=profile+views&color=orange)
 
 <!--
 **kartashevshow/kartashevshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
