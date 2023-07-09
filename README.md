@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=Stuksus&style=plastic&label=profile+views&color=orange)
 
 <!--
 **kartashevshow/kartashevshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Мое резюме:
+ - [Резюме](https://github.com/kartashevshow/kartashevshow/blob/main/Kartashev_Dmitry_CV.pdf)
