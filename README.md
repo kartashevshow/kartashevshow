@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 # Мое резюме:
  - [Резюме](https://github.com/kartashevshow/kartashevshow/blob/main/Kartashev_Dmitry_CV.pdf)
 # Опыт работы:
-<details close>
 <table>
 <tr>
   <th rowspan="2">Компания</th>
@@ -39,7 +38,6 @@ Here are some ideas to get you started:
   <td>Август 2018</td>
   <td>н.в.</td>
 </tr> 
-</details>
 
 <tr>
   <td>ООО "Энергоконтроль"</td>
