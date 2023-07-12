@@ -218,3 +218,5 @@ Here are some ideas to get you started:
 </table>
 </details>
 
+# Моя статистика: 
+![Github stats](https://github-readme-stats.vercel.app/api?username=kartashevshow&show_icons=true&&hide=issues,contribs)
