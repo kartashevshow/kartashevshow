@@ -175,7 +175,7 @@ Here are some ideas to get you started:
 
 ## Классификация:
 
-<details open>
+<details close>
   <summary>Список проектов по теме</summary>
 <table>
 <tr>
